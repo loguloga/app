@@ -135,24 +135,3 @@ return [
 
 ];
 
-// return [ 
-        
-//     'driver' => 'smtp',
-    
-//     'host' => 'smtp.sendgrid.net',
-    
-//     'port' => 587,
-    
-//     'encryption' => 'tls', 
-    
-//     'username' => 'loganatan94@gmail.com',
-    
-//     'from' => [
-//                 'address' => env('MAIL_USERNAME', 'appmom.io'),
-//                 'name' => env('MAIL_FROM_NAME', 'QrSolutions'),
-//             ],
-
-//     'password' => 'SendGrid!23',
-    
-//     'sendmail' => '/usr/sbin/sendmail -bs' 
-// ];
